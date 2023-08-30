@@ -84,15 +84,74 @@ h1 {
   line-height:1;
 }
 
-.info p{
+.info p {
   color: #000;
   font-size: 12px;
   font-weight: 400;
-  margin-top: 0;
   line-height:1;
 }
 
-.info a{
-font-size: 12px;
-font-weight: 400;
+a {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.info {
+  margin-bottom: 10px;
+}
+
+main p {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin: 26px 77px 56px 7px;
+}
+
+img{
+  margin-bottom: 28px;
+}
+
+main a {
+  text-align: center;
+  margin: 28px 163.5px 16px;
+}
+
+main {
+  padding-bottom: 16px;
+}
+
+footer{
+  background-color: #000;
+  color: #ffff;
+  line-height: 1.2;
+  padding-bottom: 14px;
+}
+
+footer h2 {
+  font-size: 12px;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-left: 7px;
+}
+
+footer p {
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 7px;
+  padding-bottom: 22px;
+}
+
+h3 {
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 400;
+  padding-left: 7px;
+}
+
+footer a {
+  color: #FFF;
+  font-size: 10px;
+  font-weight: 400;
+  padding-left: 7px;
 }
