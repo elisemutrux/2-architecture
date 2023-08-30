@@ -2,8 +2,6 @@
 // css variables
 // ==================================== */
 
-:root {
-}
 
 /* ====================================
 // reset rules
@@ -44,7 +42,57 @@ video {
 // ==================================== */
 
 
-body{
+body {
   max-width: 414px;
   margin: auto;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav a{
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 17px;
+}
+
+header{
+  margin-left: 8px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-top: 53px;
+  color: #000;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.title p {
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 32px;
+}
+
+.info h2 {
+  margin-top: 15px;
+  color: #000;
+  font-size: 12px;
+  font-weight: 700;
+  line-height:1;
+}
+
+.info p{
+  color: #000;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 0;
+  line-height:1;
+}
+
+.info a{
+font-size: 12px;
+font-weight: 400;
 }
